@@ -254,6 +254,7 @@ export default {
 			isFirstSolve: true,
 			isDialogOpen: false,
 			isDeleteDialogOpen: false,
+			analyzer: null,
 		};
 	},
 	computed: {
